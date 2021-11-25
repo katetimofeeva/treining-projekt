@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.tabs.enabled": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay"
+}
